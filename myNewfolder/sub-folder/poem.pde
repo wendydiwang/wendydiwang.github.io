@@ -1,5 +1,5 @@
 /*my processing sketch*/
-//real 
+//This is worte by Wendy. Di Wang. For prosessing CLASS at CCA 2016 Fall
 // combinatorial systems (putting things together...)
 
 // -- -- -- The Wall
